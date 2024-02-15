@@ -1,2 +1,3 @@
-# SQLcoding
-Practicing some SQL questions to get the right result
+# SQL coding questions
+
+Practicing some SQL questions to find the right data to answer
